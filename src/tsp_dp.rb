@@ -146,10 +146,10 @@ loop do
   puts "             T S P   S O L V E R              "
   puts "            (Dynamic Programming)             "
   puts "=============================================="
-  puts "[1] Masukkan Matriks Secara Manual"
+  puts "\n[1] Masukkan Matriks Secara Manual"
   puts "[2] Baca Matriks dari File"
   puts "[3] Keluar"
-  print "Pilih opsi: "
+  print "\nPilih opsi: "
   
   choice = gets.chomp
   cost_matrix = nil

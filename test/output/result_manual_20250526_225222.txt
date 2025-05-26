@@ -1,0 +1,10 @@
+Tanggal: 2025-05-26 22:52:22
+
+Matriks Biaya yang Digunakan:
+[0, 4, 7]
+[6, 0, 5]
+[8, 3, 0]
+
+HASIL PERHITUNGAN:
+Bobot tur terpendek: 16
+Jalur tur optimal: 1 -> 3 -> 2 -> 1

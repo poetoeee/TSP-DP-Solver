@@ -1,4 +1,4 @@
-Tanggal: 2025-05-26 22:37:11
+Tanggal: 2025-05-26 22:49:22
 
 Matriks Biaya yang Digunakan:
 [0, 10, 15, 20]
